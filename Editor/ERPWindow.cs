@@ -141,7 +141,7 @@ namespace ERP
 
             if (GUILayout.Button("Source Code"))
             {
-                Application.OpenURL("https://github.com/MarshMello0/Editor-Rich-Presence");
+                Application.OpenURL("https://github.com/Reava/Unity-Rich-Presence/");
             }
             
             EditorGUILayout.EndHorizontal();
