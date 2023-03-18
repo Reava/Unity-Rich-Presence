@@ -5,7 +5,7 @@ Show off what you're working on in unity with Editor Rich Presence on discord.
 
 ![Discord Rich Presence](https://user-images.githubusercontent.com/93742413/226097935-8e35ef30-efb7-4be2-b1ed-d80ecdafc9c0.png)
 
-##📥 Download
+## 📥 Download
 
 You can download the package from the Latest Release [here](https://github.com/Reava/Unity-Rich-Presence/releases/latest/)~
 
