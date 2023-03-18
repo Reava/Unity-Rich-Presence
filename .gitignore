@@ -23,7 +23,34 @@ ExportedObj/
 *.svd
 *.pdb
 *.opendb
-
+.vs/
+.gradle/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+# Builds
+*.apk
+*.aab
+*.app
+LICENSE.meta
+README.md.meta
+version.txt.meta
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
@@ -34,3 +61,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Editor.meta
+Fonts.meta
+Images.meta
+package.json.meta
