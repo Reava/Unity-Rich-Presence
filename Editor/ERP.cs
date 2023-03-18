@@ -18,8 +18,8 @@ namespace ERP
     [InitializeOnLoad]
     public static class ERP
     {
-        private const string _applicationId = "509465267630374935";
-        private const string _prefix = "<b>Editor Rich Presence</b>";
+        private const string _applicationId = "758347839692210186";
+        private const string _prefix = "<b>Unity Rich Presence</b>";
 
         public static Discord.Discord discord { get; private set; }
 
@@ -234,10 +234,10 @@ namespace ERP
                 },
                 Assets =
                 {
-                    LargeImage = "logo",
+                    LargeImage = "unity",
                     LargeText = "Unity " + Application.unityVersion,
-                    SmallImage = "marshmello",
-                    SmallText = "ERP on Unity Asset Store",
+                    SmallImage = "rubber_duck",
+                    SmallText = "Qwack!",
                 },
             };
 
