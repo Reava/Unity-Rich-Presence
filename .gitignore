@@ -65,3 +65,12 @@ Editor.meta
 Fonts.meta
 Images.meta
 package.json.meta
+FUNDING.yml.meta
+Editor.meta
+package.json.meta
+Runtime.meta
+README.md.meta
+version.txt.meta
+Website.meta
+source.json.meta
+Website/**/*.meta
