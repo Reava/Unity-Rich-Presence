@@ -74,3 +74,6 @@ version.txt.meta
 Website.meta
 source.json.meta
 Website/**/*.meta
+Documentation.meta
+LICENSE.md.meta
+package.json.meta
