@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-  releasePrefix: "Unity Rich Presence "
+  releasePrefix: "Unity Rich Presence"
   packageName: "chirp.reava.erp"
   packagePath: "Packages/chirp.reava.erp"
 
