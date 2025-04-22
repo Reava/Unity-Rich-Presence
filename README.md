@@ -1,4 +1,4 @@
-# Editor Rich Presence
+# Unity Rich Presence
 ## A Discord Rich Presence for the Unity editor
 
 Show off what you're working on in unity with Editor Rich Presence on discord.
