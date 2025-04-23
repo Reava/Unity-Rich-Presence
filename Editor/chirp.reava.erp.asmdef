@@ -1,5 +1,6 @@
 {
-    "name": "com.ben-w.erp",
+    "name": "chirp.reava.erp",
+    "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
